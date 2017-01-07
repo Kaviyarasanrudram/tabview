@@ -1,0 +1,7 @@
+#Thu Dec 29 13:36:26 IST 2016
+base.0=D\:\\Kavi\\My projects\\Tabviewer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b7c6d6ed11c10a89fb73888509f3dd643875dac3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Kavi\\My projects\\Tabviewer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3f13fa9650e0d78d38af0cf97a4abe1ca4afd079\\classes.dex
+base.1=D\:\\Kavi\\My projects\\Tabviewer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3f13fa9650e0d78d38af0cf97a4abe1ca4afd079
+file.0=D\:\\Kavi\\My projects\\Tabviewer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b7c6d6ed11c10a89fb73888509f3dd643875dac3\\classes.dex
